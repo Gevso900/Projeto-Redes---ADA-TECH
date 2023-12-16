@@ -22,3 +22,13 @@ Criação de Outras 5 máquinas dentro da Rede Interna B utilizando DHCP para de
 
 #Explicação:
 O objetivo final, é que um dos Desktops da Rede A, consiga colocar em seu navegador interno, o endereço do Site do Servidor WEB que está na REDE B, e a página possa ser carregada corretamente, validando deste modo o Roteamento entre as Redes, DNS e a camada da Aplicação funcionando corretamente.)
+
+<div align="center">
+<h2>
+Projeto montado 📝
+<h2>
+<img src=projeto.png/>
+
+</div>
+
+
